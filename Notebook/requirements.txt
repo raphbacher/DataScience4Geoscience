@@ -1,4 +1,0 @@
-numpy==1.7
-matplotlib==2.1
-scikit-learn==17
-jupyter==5.0
